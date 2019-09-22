@@ -1,0 +1,179 @@
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+.table tr td a{
+      text-decoration: none;
+}
+body{
+  background: #f7f7f7;
+}
+  .margin-4{
+      margin:4px;
+  }
+.border-gray{
+  border: 1px solid #d7d7d7;
+  border-radius: 2px;
+}
+.margin-5px{
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.border-gray{
+  border: 1px solid #d7d7d7;
+  border-radius: 4px;
+
+}
+.text-white{
+  color: #fff;
+}
+
+.text-green{
+  color: #017f16;
+}
+.bg-white{
+  background: #fff;
+}
+.bg-gray{
+  background: #f5f5f5;
+}
+.bg-orage{
+  background: #df710b;
+}
+.bg-black{
+  background: #000;
+}
+.color-black{
+  color: #000 ;
+}
+.color-white{
+  color: #fff;
+}
+.font-12{
+  font-size: 12px;
+}
+.font-20{
+  font-size: 20px;
+}
+.colored { width: 100%; height:4px; overflow:hidden; position:relative; top:5px; left:0px ;}
+.colored div{ height:1px; width:100%; float:left;}
+.panel-primary {
+    border-color: #d9edf7;
+}
+
+.box-header{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    padding: 10px 15px;
+    background: #d9edf7;
+}
+.box-body{
+
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+      flex: 1 1 auto;
+      padding: 0px !important;
+}
+.box-footer{
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  padding: .75rem 1.25rem;
+  background-color: rgba(0,0,0,.03);
+  border-top: 1px solid rgba(0,0,0,.125);
+}
+.box{
+  position: relative;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+min-width: 0;
+word-wrap: break-word;
+background-color: #fff;
+background-clip: border-box;
+    margin-top: 10px;
+}
+.box .btn{
+  padding: 6px 3px !important;
+}
+.btn-detail {
+    color: #fff;
+    background-color: #32dd38;
+    border-color: #32dd38;
+}
+.btn-detail:hover {
+    color: #fff;
+    background-color: #28a82c;
+    border-color: #28a82c;
+}
+.navbar {
+  margin-bottom: 0px;
+  border-radius: 0;
+}
+.navbar-inverse {
+    background-color: #017f16;
+    border-color: #086918;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
+    background: #13d231;
+}
+.profil{
+  padding: 10px;
+}
+/* Remove the jumbotron's default bottom margin */
+ .jumbotron {
+   background:#086918;
+  margin-bottom: 0;
+  /* background-image: url("../headerbibit.jpg"); */
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #086918;
+  padding: 25px;
+}
+.footer{
+    background-color: #086918;
+}
+.box-right{
+  float: right !important;
+}
+.box-detail{
+  margin: 4px;
+}
+ .keterangan a:hover{
+   color:#017f16;
+ }
+ .keterangan a{
+   text-decoration: none;
+ }
+ .badge-info {
+   background-color: #3a87ad;
+ }
+ .badge-info:hover {
+   background-color: #2d6987;
+ }
+ .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{
+   background: #017f16;
+ }
+.cart li{
+  width: 500px
+}
+.side-bar a:hover{
+color: #017f16;
+text-decoration: none;
+}
+.side-bar .panel{
+  border: none;
+}
