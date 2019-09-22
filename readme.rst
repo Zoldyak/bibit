@@ -5,9 +5,6 @@ fitur di dalamnya terdapat
 
 
 1.transaksi penjualan
-
 2.laporan penjualan
-
 3. CRUD Data
-
 4. pendaftaran dengan konfirmasi email
